@@ -1,5 +1,5 @@
 # Blood-Donations
-Predicting the Blood Donations (MedTourEasy)
+### Predicting the Blood Donations (MedTourEasy Project)
 
 ## MedTourEasy 
 A global healthcare company, provides you the informational resources needed to evaluate your global options. It helps you find the right healthcare solution based on specific health needs, affordable care while meeting the quality standards that you expect to have in healthcare. MedTourEasy improves access to healthcare for people everywhere. It is an easy-to-use platform and service that helps patients to get medical second opinions and to schedule affordable, high-quality medical treatment abroad.
